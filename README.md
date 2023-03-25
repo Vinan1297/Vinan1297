@@ -19,14 +19,15 @@
 </div>
   
   
-  
+<div>
 Hello, Everyone! , I'm Vinesh
 DATA ANALYST
 
 Vinesh Anand
-
-    Hello, Networks 👋I'm Vinesh
-
+</div>
+  
+Hello, Networks 👋I'm Vinesh
+  
 ✨About Me in 30 secs✨
 
     🔭 I am a data analyst with a strong focus on analyzing data using various tools like Excel, SQL, Python, Machine Learning, EDA, NLP, Power BI and Tableau. I enjoy discovering trends, patterns, and predictions in data and presenting them in a meaningful way. I am seeking opportunities to expand my skills and take on more responsibilities in Data Analyst roles.
