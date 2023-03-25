@@ -9,8 +9,8 @@ Vinesh Anand
 
     🔭 I am a data analyst with a strong focus on analyzing data using various tools like Excel, SQL, Python, Machine Learning, EDA, NLP, Power BI and Tableau. I enjoy discovering trends, patterns, and predictions in data and presenting them in a meaningful way. I am seeking opportunities to expand my skills and take on more responsibilities in Data Analyst roles.
     💬 Ask me about Data Analytics
-    👨‍💻 All of my projects are available at Projects(https://github.com/Vinan1297?tab=repositories).
-    📫 How to reach me: LinkedIn(https://www.linkedin.com/in/vinesh-anand-23aa63167/).
+    👨‍💻 All of my projects are available at [Projects](github.com/Vinan1297?tab=repositories).
+    📫 How to reach me: [LinkedIn](linkedin.com/in/vinesh-anand-23aa63167/).
 
  
 
